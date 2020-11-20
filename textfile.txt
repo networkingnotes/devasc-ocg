@@ -1,0 +1,5 @@
+line one of a text file
+line two of a text file, just like line one
+Third line of a text file.
+
+Forth line added by python script
